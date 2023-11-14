@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi! I'm Francesco
 
-<!--
-**Frangu77o/Frangu77o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏼‍💻💻 Front-End Developer
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Javascript, TypeScript, GO
+- Frameworks: React, Node.js
+
+## Open Source Contributions
+
+- [StudentiUniMi](https://github.com/StudentiUniMi/website): I fixed an issue with the page routing on the website.
+
+## Links
+
+- [LinkedIn Profile](https://www.linkedin.com/in/francescofranguelli/)
