@@ -9,7 +9,7 @@
 
 ## Open Source Contributions
 
-- [StudentiUniMi](https://github.com/StudentiUniMi/website): I fixed an issue with the page routing on the website.
+- [StudentiUniMi](https://github.com/StudentiUniMi/website/commit/61df465c9d08d2fa2d57e1195bbd7d2fe135752f): I fixed an issue with the pages routing on the website.
 
 ## Links
 
