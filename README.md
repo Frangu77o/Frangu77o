@@ -4,8 +4,8 @@
 
 ## Skills and Technologies
 
-- Programming Languages: Javascript, TypeScript, GO
-- Frameworks: React, Node.js
+- Programming Languages: **Javascript**, **TypeScript**, **GO**
+- Frameworks: **React**, **Node.js**
 
 ## Open Source Contributions
 
